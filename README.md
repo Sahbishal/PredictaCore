@@ -31,5 +31,10 @@ python run.py
 - **Frontend Dashboard**: [http://localhost:8501](http://localhost:8501) (Streamlit default)
 
   ## 📦 Tech Stack
+  - **Backend**: FastAPI, LangChain, Pydantic
+- **Frontend**: Streamlit, Altair
+- **Data Analysis**: Pandas, Scikit-learn
+- **API**: OpenAI GPT-4o-mini
+
 
 
