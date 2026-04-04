@@ -30,4 +30,6 @@ python run.py
 - **Backend API**: [http://localhost:8000](http://localhost:8000)
 - **Frontend Dashboard**: [http://localhost:8501](http://localhost:8501) (Streamlit default)
 
+  ## 📦 Tech Stack
+
 
