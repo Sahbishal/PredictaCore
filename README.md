@@ -16,7 +16,7 @@
 - **[./run.py](./run.py)**: Unified entry point to launch both backend and frontend services.
 
 ## 🚀 Getting Started
-
+ 
 ### Prerequisites
 - Python 3.8+
 - An OpenAI API key (configured in `.env`)
