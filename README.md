@@ -20,7 +20,7 @@
 ### Prerequisites
 - Python 3.8+
 - An OpenAI API key (configured in `.env`)
-
+ 
   
 ### Running the Application
 To start both the FastAPI backend and the Streamlit frontend, run:
