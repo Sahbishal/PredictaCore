@@ -1,0 +1,25 @@
+{
+  "high_temperature": [
+    "Check coolant levels and cooling system integrity.",
+    "Inspect the heat exchanger for debris or clogs.",
+    "Monitor exhaust gas temperatures (EGT) for abnormal patterns.",
+    "Verify temperature sensor calibration."
+  ],
+  "high_vibration": [
+    "Inspect turbine blades for signs of wear or damage.",
+    "Check bearing lubrication and alignment.",
+    "Verify structural integrity of the mounting assembly.",
+    "Perform dynamic balancing of the rotor system."
+  ],
+  "low_oil_pressure": [
+    "Check oil level in the main reservoir.",
+    "Inspect oil pump and filtration system for blockages.",
+    "Check for external oil leaks in the feed lines.",
+    "Verify pressure relief valve functionality."
+  ],
+  "sensor_failure": [
+    "Verify sensor power supply and wiring.",
+    "Replace faulty sensors with calibrated units.",
+    "Check the Data Acquisition System (DAQ) for signal processing errors."
+  ]
+}
