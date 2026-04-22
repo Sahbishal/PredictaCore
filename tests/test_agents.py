@@ -8,6 +8,7 @@ from backend.agents import SensorAnalysisAgent, MaintenanceRecommendationAgent
 DATA_PATH = 'data/turbine_data.csv'
 PROCEDURES_PATH = 'data/maintenance_procedures.json'
 
+
 @pytest.fixture
 def sensor_agent():
     return SensorAnalysisAgent(DATA_PATH)
