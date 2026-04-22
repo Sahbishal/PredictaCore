@@ -13,6 +13,7 @@ PROCEDURES_PATH = 'data/maintenance_procedures.json'
 def sensor_agent():
     return SensorAnalysisAgent(DATA_PATH)
 
+
 @pytest.fixture
 def maintenance_agent():
     return MaintenanceRecommendationAgent(PROCEDURES_PATH)
